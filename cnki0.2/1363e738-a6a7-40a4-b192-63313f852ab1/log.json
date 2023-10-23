@@ -1,0 +1,18 @@
+{
+    "2023-10-16 16:38:31.544739": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '模式识别', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': '1363e738-a6a7-40a4-b192-63313f852ab1', 'msg': '操作成功', 'status': '0'}"
+    },
+    "2023-10-16 16:38:36.933019": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (1 retries left)"
+    },
+    "2023-10-16 16:38:39.034509": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (0 retries left)"
+    },
+    "2023-10-16 16:38:40.813279": {
+        "type": "异常报错",
+        "msg": "Error of crawl：list assignment index out of range"
+    }
+}

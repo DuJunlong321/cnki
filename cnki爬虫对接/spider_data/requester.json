@@ -1,0 +1,18 @@
+{
+    "客户guid1": {
+        "last_request": "最近一次任务提交时间",
+        "newTask": "累计提交任务次数",
+        "success": "累计成功任务次数",
+        "fail": "累计失败任务次数",
+        "getState": "累计获取结果次数",
+        "getResult": "累计查询状态次数"
+    },
+    "客户guid2": {
+        "last_request": "最近一次任务提交时间",
+        "newTask": "累计提交任务次数",
+        "success": "累计成功任务次数",
+        "fail": "累计失败任务次数",
+        "getState": "累计获取结果次数",
+        "getResult": "累计查询状态次数"
+    }
+}

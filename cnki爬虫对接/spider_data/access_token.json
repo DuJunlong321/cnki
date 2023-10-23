@@ -1,0 +1,12 @@
+{
+    "access_token1": {
+        "name": "客户名称",
+        "guid": "客户guid",
+        "disabled": "True/False"
+    },
+    "access_token2": {
+        "name": "客户名称",
+        "guid": "客户guid",
+        "disabled": "True/False"
+    }
+}

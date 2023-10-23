@@ -1,0 +1,37 @@
+{
+    "index": ##文献id
+        {
+            "name": "基于电脑与信息技术手段进行AI智慧教学的模式探究",
+            "author": "杨瑞;张素英",
+            "affiliation": "隶属单位", ##
+            "get_way": "《电脑与信息技术",
+            "page": "页码4112-4115",##
+            "pageNum": "页数4", ##
+            "publish_time": "2023-02-01 00:00:00",
+            "db_type": "文献类型", ##
+            "cited": "99",
+            "download": "100",
+            "abstract": "【摘要】：随着大数据、AI技术以及“互联网+”时代的到来，传统的教学模式局限性日渐凸出，无法满足学生对于知识的探索与渴求。新一轮的教学信息化技术革命正在悄然发生。国家《教育信息化“十四五”规划》中明确指出未来要将信息化技术纳入教学模式改革当中，使其成为教学活动常态，实现学生人人都可随时、随地学习的信息化目标。疫情的爆发加速了这一目标的落地和实施。【作者单位】：晋中信息学院",
+            "keywords": "AI",
+            "url": "https://www.cnki.com.cn/Article/CJFDTOTAL-DNXJ202302029.htm",
+            "crawl_time": "2023-09-14 08:56:14"
+        },
+    "2": 
+        {
+            "name": "xxx",
+            "author": "xxx",
+            "affiliation": "隶属单位",
+            "get_way": "左上角来源",
+            "page": "页码4112-4115",
+            "pageNum": "页数4",
+            "publish_time": "xxx",
+            "db_type": "xxx",
+            "cited": "xxx",
+            "download": "xxx",
+            "abstract": "xxx",
+            "keywords": "搜索引擎;网络爬虫;",
+            "url": "xxx",
+            "crawl_time": "xxx"
+        }
+    
+}

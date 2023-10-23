@@ -1,0 +1,20 @@
+{
+    "任务GUID":{
+        "keywords": "检索词",
+        "requester": "请求者guid",
+        "task_type": "任务类型",
+        "first_at": "首次开始执行时间",
+        "finish_at": "任务完成时间",
+        "state": "100/200/300",
+        "success": "10",
+        "fail": "2",
+        "fail_list": [
+            "url1",
+            "url2"
+        ],
+        "maxpage": "50"
+    },
+    "task002":{
+        
+    }
+}

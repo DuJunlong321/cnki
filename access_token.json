@@ -1,0 +1,18 @@
+{
+    "123": {
+        "name": "内毒素",
+        "guid": "1001",
+        "disabled": "False"
+    },
+    "456": {
+        "name": "北交",
+        "guid": "1002",
+        "disabled": "True"
+    },
+    "789": {
+        "name": "沪金",
+        "guid": "1003",
+        "disabled": "False"
+    }
+
+}

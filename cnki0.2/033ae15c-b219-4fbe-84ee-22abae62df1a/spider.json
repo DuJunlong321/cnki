@@ -1,0 +1,13 @@
+{
+    "guid": "033ae15c-b219-4fbe-84ee-22abae62df1a",
+    "keywords": "模式识别",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-16 16:39:50.423707",
+    "finish_at": "2023-10-16 16:40:12.337369",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}
