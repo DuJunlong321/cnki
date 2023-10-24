@@ -1,0 +1,14 @@
+{
+    "2023-10-24 19:44:00.584564": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '生物', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': 'ff9fb019-8338-4f95-ae74-61789663d4a8', 'msg': '操作成功', 'status': '1'}"
+    },
+    "2023-10-24 19:44:00.907728": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9fb019-8338-4f95-ae74-61789663d4a8', 'keywords': '生物', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-24 19:45:01.944529": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9fb019-8338-4f95-ae74-61789663d4a8', 'keywords': '生物', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-24 19:44:00.585562', 'finishAt': '2023-10-24 19:44:30.628400', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

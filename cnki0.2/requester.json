@@ -1,10 +1,10 @@
 {
     "1001": {
-        "last_request": "2023-10-16 16:42:47.751674",
-        "newTask": "3",
-        "success": "2",
-        "fail": "1",
-        "getState": "",
+        "last_request": "2023-10-24 21:03:07.474543",
+        "newTask": "106",
+        "success": "61",
+        "fail": "34",
+        "getState": "358",
         "getResult": ""
     }
 }

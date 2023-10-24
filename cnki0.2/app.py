@@ -2,9 +2,11 @@ from flask import Flask, request, jsonify
 from psj import *
 
 from concurrent.futures import ThreadPoolExecutor
-
+from flask_cors import CORS
+from flask_cors import cross_origin
 app = Flask(__name__)
-
+CORS(app)
+CORS(app, resources={r"/*": {"origins": "http://localhost:8000/*"}})
 
 
 @app.route('/')
@@ -18,6 +20,7 @@ thread_pool = ThreadPoolExecutor(max_workers=5)
 
 
 @app.route('/cnkiSpider/newtask', methods=['POST'])
+@cross_origin()
 def newtask():
 
 
@@ -157,6 +160,7 @@ def newtask():
 
 
 @app.route('/cnkiSpider/getState', methods=['post'])
+@cross_origin()
 def getState():
 
     if request.method == 'POST':
@@ -188,18 +192,20 @@ def getState():
         # 验证300：task_guid不存在
         try:
             # 打开 task.json 文件
-            with open(json_file_path, 'r') as json_file:
+            with open(json_file_path, 'r', encoding='utf-8') as json_file:
                 json_data = json.load(json_file)  # 解析 JSON 文件为 Python 对象
-                # 获取 maxpage 字段的值
-                maxpage = json_data['maxpage']
-                # 获取 state 字段的值
-                state = json_data['state']
-                # 获取 success 字段的值
-                success = json_data['success']
-                # 获取 fail 字段的值
-                fail = json_data['fail']
-                # 获取 requester 字段的值
+
+                keywords = json_data['keywords']
                 requester = json_data['requester']
+                task_type = json_data['task_type']
+                first_at = json_data['first_at']
+                finish_at = json_data['finish_at']
+                state = json_data['state']
+                success = json_data['success']
+                fail = json_data['fail']
+                fail_list = json_data['fail_list']
+                maxpage = json_data['maxpage']
+
         except Exception as e:
             print(f"Error of getState:{e}")
             response['code'] = '300'
@@ -230,12 +236,20 @@ def getState():
 
 
         item = {
-            '状态': str(state),
-            '已成功爬取数量': str(success),
-            '爬取失败数量': str(fail),
-            '计划爬取数量': str(int(maxpage) * 20)
+            "taskGuid": task_guid,
+            "keywords": keywords,
+            "requester": requester,
+            "taskType": task_type,
+            "firstAt": first_at,
+            "finishAt": finish_at,
+            "state": state,
+            "success": success,
+            "fail": fail,
+            "failList": fail_list,
+            "maxpage": maxpage,
         }
         response['data'] = item
+
     except ValueError as ve:
         # 捕获自定义异常
         print(f'Error: Invalid access_token: {ve}')
@@ -244,7 +258,6 @@ def getState():
         del response['access_token']    # 密钥不对，直接返回，不写入任何json信息
         del response['task_guid']
         return response
-
 
     except Exception as e:
         print(f"Error of getState:{e}")
@@ -262,6 +275,7 @@ def getState():
     return response
 
 @app.route('/cnkiSpider/getResult', methods=['post'])
+@cross_origin()
 def getResult():
 
     if request.method == 'POST':
