@@ -1,0 +1,30 @@
+{
+    "2023-10-25 19:47:26.928726": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': 'ai', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': '5b5cca1c-b501-43c8-b481-bbbcc9d521c9', 'msg': '操作成功', 'status': '0'}"
+    },
+    "2023-10-25 19:47:26.940494": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '5b5cca1c-b501-43c8-b481-bbbcc9d521c9', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:47:31.252314": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (1 retries left)"
+    },
+    "2023-10-25 19:47:32.805644": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (0 retries left)"
+    },
+    "2023-10-25 19:47:33.881134": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '5b5cca1c-b501-43c8-b481-bbbcc9d521c9', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:47:34.316341": {
+        "type": "异常报错",
+        "msg": "Error of crawl：list assignment index out of range"
+    },
+    "2023-10-25 19:47:42.633768": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '5b5cca1c-b501-43c8-b481-bbbcc9d521c9', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:47:26.935978', 'finishAt': '2023-10-25 19:47:34.316341', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=HHZX20231023001&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=32.1521.C.20231024.0959.002']\", 'maxpage': '1'}}"
+    }
+}

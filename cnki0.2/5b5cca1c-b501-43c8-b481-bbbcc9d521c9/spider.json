@@ -1,0 +1,13 @@
+{
+    "guid": "5b5cca1c-b501-43c8-b481-bbbcc9d521c9",
+    "keywords": "ai",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-25 19:47:26.935978",
+    "finish_at": "2023-10-25 19:47:34.316341",
+    "state": "100",
+    "success": "20",
+    "fail": "1",
+    "fail_list": "['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=HHZX20231023001&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=32.1521.C.20231024.0959.002']",
+    "maxpage": "1"
+}

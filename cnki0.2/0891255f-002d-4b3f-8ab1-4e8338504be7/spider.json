@@ -1,0 +1,13 @@
+{
+    "guid": "0891255f-002d-4b3f-8ab1-4e8338504be7",
+    "keywords": "测试03",
+    "requester": "1001",
+    "task_type": "batchtime",
+    "first_at": "2023-10-25 20:15:16.104961",
+    "finish_at": "2023-10-25 20:15:43.100039",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}

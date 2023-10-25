@@ -1,0 +1,34 @@
+{
+    "2023-10-25 20:13:23.075575": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '测试', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'msg': '操作成功', 'status': '1'}"
+    },
+    "2023-10-25 20:13:23.331132": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:08.205023": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:12.346663": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:23.787703": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:27.642419": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:31.478818": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:18:15.070195": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'e9e5f9c4-3baf-4dae-9ad4-f896ff220204', 'keywords': '测试', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:13:23.076578', 'finishAt': '2023-10-25 20:13:49.400689', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

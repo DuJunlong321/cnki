@@ -1,0 +1,34 @@
+{
+    "2023-10-25 20:15:01.260251": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '测试03', 'requester': '1001', 'task_type': 'batchtime', 'maxpage': '1', 'code': '100', 'task_guid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'msg': '操作成功', 'status': ''}"
+    },
+    "2023-10-25 20:15:01.523424": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:08.202890": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:12.345665": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:23.786701": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:27.640417": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:31.471562": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '2023-10-25 20:15:01.264257', 'finishAt': '2023-10-25 20:15:28.611132', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:18:15.063676": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'b1b29dc9-76fd-45aa-a309-3e3930055501', 'keywords': '测试03', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '2023-10-25 20:15:01.264257', 'finishAt': '2023-10-25 20:15:28.611132', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

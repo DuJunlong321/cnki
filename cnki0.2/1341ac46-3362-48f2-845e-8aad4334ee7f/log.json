@@ -1,0 +1,54 @@
+{
+    "2023-10-25 19:50:03.320348": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '内毒素', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'msg': '操作成功', 'status': '0'}"
+    },
+    "2023-10-25 19:50:03.584584": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:06.216893": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:15.271336": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:18.164482": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:24.648315": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:29.981155": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:08.210102": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:12.343659": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:23.781317": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:27.941344": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:31.481277": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:18:15.385867": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

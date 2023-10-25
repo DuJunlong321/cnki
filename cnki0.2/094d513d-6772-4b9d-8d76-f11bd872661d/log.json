@@ -1,0 +1,10 @@
+{
+    "2023-10-25 20:01:16.471078": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '模式识别', 'requester': '1001', 'task_type': 'batchtime', 'maxpage': '1', 'code': '100', 'task_guid': '094d513d-6772-4b9d-8d76-f11bd872661d', 'msg': '操作成功', 'status': ''}"
+    },
+    "2023-10-25 20:01:26.767386": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '094d513d-6772-4b9d-8d76-f11bd872661d', 'keywords': '模式识别', 'requester': '1001', 'taskType': 'batchtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    }
+}

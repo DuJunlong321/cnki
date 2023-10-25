@@ -1,0 +1,13 @@
+{
+    "guid": "290af66f-627a-432c-8632-0414cfcdab4c",
+    "keywords": "生物",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-25 19:49:43.395946",
+    "finish_at": "2023-10-25 19:50:09.456258",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}

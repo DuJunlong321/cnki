@@ -1,0 +1,13 @@
+{
+    "guid": "1341ac46-3362-48f2-845e-8aad4334ee7f",
+    "keywords": "内毒素",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-25 19:50:03.325386",
+    "finish_at": "2023-10-25 19:50:29.372117",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}

@@ -1,0 +1,54 @@
+{
+    "2023-10-25 19:49:51.246699": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '化学', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'msg': '操作成功', 'status': '0'}"
+    },
+    "2023-10-25 19:49:51.492242": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:06.216893": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:15.269235": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:18.483025": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:24.652716": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 19:50:30.302125": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:08.207911": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:12.348169": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:24.097615": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:27.939335": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:15:31.795701": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-25 20:18:15.388896": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '4ab56620-f723-41e5-89c9-6e3bda50bbe7', 'keywords': '化学', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:51.249217', 'finishAt': '2023-10-25 19:50:17.328246', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "guid": "d5f06faa-6086-4eec-bf2a-15c923674ad6",
+    "keywords": "测试02",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-25 20:14:48.745666",
+    "finish_at": "2023-10-25 20:15:14.967613",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}
