@@ -50,5 +50,9 @@
     "2023-10-25 20:18:15.385867": {
         "type": "状态查询",
         "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 09:36:02.751142": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '1341ac46-3362-48f2-845e-8aad4334ee7f', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:50:03.325386', 'finishAt': '2023-10-25 19:50:29.372117', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
     }
 }

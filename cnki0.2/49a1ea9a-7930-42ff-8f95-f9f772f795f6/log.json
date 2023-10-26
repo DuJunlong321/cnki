@@ -1,0 +1,50 @@
+{
+    "2023-10-26 09:36:39.946410": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': 'ai', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'msg': '操作成功', 'status': '0'}"
+    },
+    "2023-10-26 09:36:40.273535": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-26 09:37:00.914726": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-26 09:37:13.166218": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:15.962333": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:20.741154": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:31.765848": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:35.067848": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:39.965934": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:45.092860": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:52.096024": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:57.928425": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '49a1ea9a-7930-42ff-8f95-f9f772f795f6', 'keywords': 'ai', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 09:36:39.953391', 'finishAt': '2023-10-26 09:37:10.355202', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    }
+}

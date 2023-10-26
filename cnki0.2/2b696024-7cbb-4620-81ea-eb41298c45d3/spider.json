@@ -1,0 +1,13 @@
+{
+    "guid": "2b696024-7cbb-4620-81ea-eb41298c45d3",
+    "keywords": "化学",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-26 11:50:08.404995",
+    "finish_at": "2023-10-26 11:50:35.613411",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}

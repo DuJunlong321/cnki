@@ -1,0 +1,13 @@
+{
+    "guid": "9ed075c6-5081-4e37-9af7-fd478030d7ae",
+    "keywords": "奥卡西平",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-26 11:49:18.858712",
+    "finish_at": "2023-10-26 11:49:46.135101",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}
