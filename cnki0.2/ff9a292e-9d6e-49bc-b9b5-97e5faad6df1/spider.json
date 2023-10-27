@@ -1,0 +1,13 @@
+{
+    "guid": "ff9a292e-9d6e-49bc-b9b5-97e5faad6df1",
+    "keywords": "内毒素",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-26 11:47:10.531283",
+    "finish_at": "2023-10-26 11:47:20.065093",
+    "state": "100",
+    "success": "20",
+    "fail": "1",
+    "fail_list": "['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']",
+    "maxpage": "1"
+}

@@ -50,5 +50,9 @@
     "2023-10-25 20:18:15.388896": {
         "type": "状态查询",
         "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '290af66f-627a-432c-8632-0414cfcdab4c', 'keywords': '生物', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:43.395946', 'finishAt': '2023-10-25 19:50:09.456258', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 09:36:02.772058": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': '290af66f-627a-432c-8632-0414cfcdab4c', 'keywords': '生物', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 19:49:43.395946', 'finishAt': '2023-10-25 19:50:09.456258', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
     }
 }

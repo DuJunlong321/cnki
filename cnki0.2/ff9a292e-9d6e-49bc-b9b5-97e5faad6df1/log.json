@@ -1,0 +1,54 @@
+{
+    "2023-10-26 11:47:10.531283": {
+        "type": "任务启动",
+        "msg": "{'access_token': '123', 'keywords': '内毒素', 'requester': '1001', 'task_type': 'realtime', 'maxpage': '1', 'code': '100', 'task_guid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'msg': '操作成功', 'status': '1'}"
+    },
+    "2023-10-26 11:47:10.762809": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:15.322802": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '', 'finishAt': '', 'state': '200', 'success': '0', 'fail': '0', 'failList': '', 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:16.181531": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (1 retries left)"
+    },
+    "2023-10-26 11:47:18.439180": {
+        "type": "异常报错",
+        "msg": "Error of URL : 'NoneType' object has no attribute 'xpath', retrying... (0 retries left)"
+    },
+    "2023-10-26 11:47:20.065093": {
+        "type": "异常报错",
+        "msg": "Error of crawl：list assignment index out of range"
+    },
+    "2023-10-26 11:47:20.411233": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:31.452362": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:34.740580": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:39.628695": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:44.772296": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:51.779890": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    },
+    "2023-10-26 11:47:57.583055": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'ff9a292e-9d6e-49bc-b9b5-97e5faad6df1', 'keywords': '内毒素', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-26 11:47:10.531283', 'finishAt': '2023-10-26 11:47:20.065093', 'state': '100', 'success': '20', 'fail': '1', 'failList': \"['https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=YPBZ202304010&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=']\", 'maxpage': '1'}}"
+    }
+}

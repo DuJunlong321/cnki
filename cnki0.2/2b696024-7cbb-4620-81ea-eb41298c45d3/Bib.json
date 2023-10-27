@@ -1,0 +1,368 @@
+{
+    "1": {
+        "name": "化学链制化学品工艺及循环材料研究进展",
+        "author": "张榕江; 张博; 刘根; 杨伯伦; 吴志强",
+        "affiliation": "西安交通大学化学工程与技术学院陕西省能源化工过程强化重点实验室",
+        "get_way": "化工学报",
+        "page": "下载：39",
+        "pageNum": "页数：18",
+        "publish_time": [
+            "化工学报"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "39",
+        "abstract": "化学链技术在学品生产过程强化方面表现出极大潜力，相较于传统工艺可提高?效率并降低碳排放。本文综述了目前常见的化学链制化学品工艺，主要包括化学链重整/部分氧化制合成气和氢气、低碳烷烃化学链氧化脱氢/选择性氢燃烧制烯烃、甲烷化学链氧化偶联制乙烯、甲烷化学链脱氢芳构化制苯、化学链选择性氧化制含氧有机化合物（如甲醇、环氧乙烷和甲酸等）。深入理解载氧体理化性质与化学链反应性能间的构效关系有助于实现载氧体理性设计。目前在载氧体设计方面已具备坚实的理论基础，从利用氧化物的热力学平衡氧分压筛选载氧体活性组分，到基于表面工程策略调控晶格氧释放动力学，再到通过合理构建结构和电子描述符，深入剖析载氧体性能强化策略。实验和密度泛函理论（DFT）计算数据驱动的可解释机器学习可实现载氧体的高通量筛选，极大拓宽了载氧体筛选范围，并降低试错成本。随着化学链技术的发展，载氧体这一概念可被进一步拓展至循环材料，如载氮体、载氢体和载氯体等。光/电驱动的化学链过程为在低温或室温下实现高附加值产物的合成提供了新思路，拓宽了化学链技术的应用范围。此外，化学链技术还可用于共沸有机物分离过程强化，对低成本、低污染和低排放分离过程的开发具有重要意义。",
+        "keywords": "化学链;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=1&recid=&FileName=HGSZ20231009002&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=11.1946.TQ.20231018.1327.004",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "2": {
+        "name": "以临床病例串联知识点推进生物化学教学改革的探索",
+        "author": "杜冠魁; 周代锋",
+        "affiliation": "海南医学院基础医学与生命科学学院生物化学与分子生物学教研室",
+        "get_way": "基础医学教育",
+        "page": "下载：30",
+        "pageNum": "页码：850-854",
+        "publish_time": [
+            "基础医学教育",
+            "2023(10)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "30",
+        "abstract": "生物化学在基础医学教学中具有核心地位。课程知识点繁多且复杂,枯燥乏味。在课程中引入临床案例可以增强课程实用性,提高学生的兴趣和参与度,培养学生的临床思维。调查问卷显示,多数学生认为该方案可提高学习效果,并加强了分析和解决问题的能力;案例不够丰富是主要的不足之处。以临床疾病案例整合生物化学知识的教学注重学生的需求和差异性,采用更加灵活的教学方式和手段,为学生提供个性化和定制化的学习服务。",
+        "keywords": "生物化学;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=2&recid=&FileName=SXYD20231017003&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=14.1364.R.20231017.1720.003",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "3": {
+        "name": "师范院校物理化学课程虚拟教研室建设的探索与实践",
+        "author": "刘坤辉; 孙艳辉; 袁廷; 祖莉莉; 范楼珍",
+        "affiliation": "",
+        "get_way": "大学化学",
+        "page": "",
+        "pageNum": "",
+        "publish_time": [],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "61",
+        "abstract": "",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=3&recid=&FileName=DXHX20231009004&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=11.1815.O6.20231011.1142.004",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "4": {
+        "name": "中英高校无机化学课程比较研究",
+        "author": "焦扬; 朱亚先; 孟长功; 王颖霞; 韩喜江; 胡涛",
+        "affiliation": "1. 大连理工大学化学学院",
+        "get_way": "大学化学",
+        "page": "下载：178",
+        "pageNum": "页数：7",
+        "publish_time": [
+            "大学化学"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "178",
+        "abstract": "对7所英国罗素大学集团高校本科阶段无机课程的课程设置、教学内容、考核方式等进行了调研和分析，通过比较两国无机化学课程特点和教法的异同，为我国高校无机化学课程教学改革提供一些参考。",
+        "keywords": "无机化学;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=4&recid=&FileName=DXHX20230912002&DbName=CAPJLAST&DbCode=CAPJ&yx=Y&pr=&URLID=11.1815.O6.20230914.1058.008",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "5": {
+        "name": "非化学专业化学实验教学质量的研究与探索——以喀什大学为例",
+        "author": "简小平; 陈红曼; 戴乐; 蔡继娜; 阿迪拉·阿布都热西提",
+        "affiliation": "",
+        "get_way": "内江科技",
+        "page": "",
+        "pageNum": "",
+        "publish_time": [],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "20",
+        "abstract": "",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=5&recid=&FileName=KJNJ202308048&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "6": {
+        "name": "分析化学课程思政教学设计与实践——评《化学化工类课程思政精选案例》",
+        "author": "安二红; 周洋",
+        "affiliation": "河北软件职业技术学院",
+        "get_way": "化学工程",
+        "page": "下载：87",
+        "pageNum": "页码：104",
+        "publish_time": [
+            "化学工程",
+            "2023,51(08)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "87",
+        "abstract": "<正>分析化学是高校化学化工类专业的基础必修课之一,是化学、物理学、生命科学等众多学科交叉的应用性极强的工具学科,在食品检测、环境保护、水质分析等众多领域发挥着重要的作用。作为化学化工类专业人才培养的重要课程,深入剖析分析化学教学内容、科学设计分析化学课程思政教学内容,创新开展分析化学课程思政教学实践,对于培养化工类专业学生的敬业精神、职业素养、案例意识及独立自主的操作能力等意义重大。",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=6&recid=&FileName=IMIY202308026&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "7": {
+        "name": "化学工程技术在化学生产中的应用",
+        "author": "张娥; 蔺康; 田科",
+        "affiliation": "山东东岳高分子材料有限公司",
+        "get_way": "化工管理",
+        "page": "下载：52",
+        "pageNum": "页码：68-70+93",
+        "publish_time": [
+            "化工管理",
+            "2023(23)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "52",
+        "abstract": "化学工程技术对化学生产具有十分重要的作用，其完善成熟的技术理论是保障化学生产顺利有序进行的关键性因素之一，科学的化学工程技术能够显著提高化学生产质量和效率，进一步丰富化学生产种类，并且通过现代化技术手段改善化学生产发展现状，缓解化学生产导致的自然生态污染影响，为中国可持续发展与生态建设贡献一份力量。基于此，文章对化学工程技术在化学生产中的应用情况进行具体研究，在明确化学工程技术概念的基础上，探究其在化学生产中的应用优势，并对不同化学工程技术展开详细分析，并提出了化学工程技术的应用保障措施。",
+        "keywords": "化学工程技术;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=7&recid=&FileName=FGGL202323020&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "8": {
+        "name": "师范类高校“无机化学”课程思政建设探索",
+        "author": "束易锦; 高顺玉; 夏梦颖; 徐成东",
+        "affiliation": "楚雄师范学院资源环境与化学学院",
+        "get_way": "西部素质教育",
+        "page": "下载：77",
+        "pageNum": "页码：62-66",
+        "publish_time": [
+            "西部素质教育",
+            "2023,9(15)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "77",
+        "abstract": "文章首先阐述了师范类高校“无机化学”课程思政建设现状，然后论述了师范类高校“无机化学”课程思政元素挖掘，最后提出了师范类高校“无机化学”课程思政建设策略。",
+        "keywords": "课程思政;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=8&recid=&FileName=XBSJ202315016&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "9": {
+        "name": "有机化学实验教学中体现绿色化学的探索",
+        "author": "张锐",
+        "affiliation": "湖北文理学院食品科学技术学院化学工程学院",
+        "get_way": "中国石油和化工标准与质量",
+        "page": "下载：77",
+        "pageNum": "页码：122-124",
+        "publish_time": [
+            "中国石油和化工标准与质量",
+            "2023,43(15)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "77",
+        "abstract": "随着社会的不断发展，人们的环保意识不断增强，越来越重视低碳环保、节能减排、绿色、可持续发展在生活中的运用。而在有机化学实验中，会或多或少地给环境带来一些污染。基于此，本文主要分析了绿色化学的必要性，并阐述了绿色化学的发展及意义，针对有机化学实验教学中如何使用绿色化学提出了具体的改革策略，其中包括：在日常的理论教学中灌输绿色化学理念、对实验内容进行合理调整、有机化学实验教学方法的多元化、建立循环实验以及通过实验室管理来营造绿色实验环境。希望通过这些策略的实施，可以将绿色化学的教学理念贯彻到有机化学实验教学活动当中，进而提升学生自身的环保意识。",
+        "keywords": "有机化学实验;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=9&recid=&FileName=HGBJ202315041&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "10": {
+        "name": "基于化学信息任务驱动的仪器分析实验课程的教学探索",
+        "author": "谢彤; 吴亮; 康安",
+        "affiliation": "1. 南京中医药大学第一临床医学院",
+        "get_way": "广东化工",
+        "page": "下载：16",
+        "pageNum": "页码：210-212",
+        "publish_time": [
+            "广东化工",
+            "2023,50(13)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "16",
+        "abstract": "化学信息学是一门关注化学数据分析、计算和模型构建的交叉学科领域。随着药物研发和设计领域的快速发展，化学信息学在药学专业中的作用变得越来越重要。本论文旨在探讨化学信息学课程对中医药院校中药学专业和中药学专业的重要作用，探索了化学信息学的核心教学要素。为了推进课程设置综合化和国际化，本文探索性提出基于化学信息任务驱动的仪器分析实验课程教学探索，并给出了相关的教学设计。教学过程中结合问题导向的教学形式，在实验课开始前由老师提出具体问题，让学生利用非正式的学习时间自主学习化学信息相关的软件、各种数据库、数据分析方法、可视化和科学写作方法。最终对课程设计、获得的技能以及学生教学适应性等方面进行了反馈评估。",
+        "keywords": "化学信息学;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=10&recid=&FileName=GDHG202313069&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "11": {
+        "name": "绿色化学理念在高校化学教育中的融入路径研究",
+        "author": "赖华龙",
+        "affiliation": "三明医学科技职业学院",
+        "get_way": "湖北开放职业学院学报",
+        "page": "下载：92",
+        "pageNum": "页码：32-33+36",
+        "publish_time": [
+            "湖北开放职业学院学报",
+            "2023,36(13)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "92",
+        "abstract": "了解绿色化学概念，发现绿色化学理念在高校化学教育中的融入，将构建面向新世纪的科学，走向可持续发展道路，化解人类对化学的偏见，属于素质教育的一部分。文章将从促进绿色化学意识普及，持续增强绿色化学理念渗透力、完善绿色化学教育素材，有效革新绿色化学的课程设置、建构绿色化学实验理念，促进学习者践行绿色化学理念三方面入手，促进绿色化学理念普及，期望从课堂内外入手，利用实际行动培育学习者的环保意识。",
+        "keywords": "绿色化学理念;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=11&recid=&FileName=HBHS202313013&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=CJFR2023;&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "12": {
+        "name": "化学工程与工艺对化学工业节能的促进作用",
+        "author": "孙美芹; 赵淑琴",
+        "affiliation": "金川集团股份有限公司",
+        "get_way": "化工管理",
+        "page": "下载：57",
+        "pageNum": "页码：43-45",
+        "publish_time": [
+            "化工管理",
+            "2023(20)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "57",
+        "abstract": "在化学工业生产过程中有效应用化学工程与工艺，能够减少生产中的污染问题，同时也能够提高资源的利用率，节省了生产成本，对于化学工业的生产发展极为有利。因此，相关化工企业应重视化学工程与工艺的应用，并且要结合实际情况，选择合适的化学工程与工艺，从而使化工生产的节能环保性得到进一步提升。基于此，文章首先分析了化学工程与工艺对化学工业的促进作用，其次探究了化学工程与工艺发展中存在的问题，并提出了化学工程与工艺促进化学工业节能的途径。",
+        "keywords": "化学工程与工艺;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=12&recid=&FileName=FGGL202320013&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "13": {
+        "name": "点击化学和生物正交化学——2022年诺贝尔化学奖简介",
+        "author": "任祥祝; 张科",
+        "affiliation": "中国科学院化学研究所高分子物理与化学实验室",
+        "get_way": "化学教育(中英文)",
+        "page": "下载：422",
+        "pageNum": "页码：1-3",
+        "publish_time": [
+            "化学教育(中英文)",
+            "2023,44(13)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "422",
+        "abstract": "2001年，卡尔·巴里·夏普利斯(K. Barry Sharpless)明确定义了点击化学的基本概念。2002年，卡尔·巴里·夏普利斯和摩顿·梅尔达尔(Morten Meldal)分别独立发现了点击化学中具有里程碑意义的铜催化叠氮-炔环加成(CuAAC)反应，奠定了点击化学的发展基础。卡罗琳·贝尔托西(Carolyn R. Bertozzi)创造了生物正交化学的基本概念，并于2004年发现了经典的张力驱动叠氮-炔环加成(SPAAC)生物正交反应，实现了对活细胞表面聚糖的成功标记，奠定了生物正交化学的发展基础。基于上述3位科学家在点击化学和生物正交化学领域的杰出贡献，他们分享了2022年诺贝尔化学奖。",
+        "keywords": "点击化学;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=13&recid=&FileName=FXJJ202313001&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=CJFR2023;&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "14": {
+        "name": "微课在初中化学教学中的应用",
+        "author": "翟杏林",
+        "affiliation": "甘肃省定西市通渭县第三铺初级中学",
+        "get_way": "甘肃教育研究",
+        "page": "下载：146",
+        "pageNum": "页码：97-99",
+        "publish_time": [
+            "甘肃教育研究",
+            "2023(06)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "146",
+        "abstract": "为了不断提升初中化学教学水平，推进我国初中教育体制改革，本文立足初中化学教学实际，分析微课在初中化学课堂的应用优势及实践现状，同时提出一系列初中化学微课教学的具体措施，并借此有效地将微课视频渗透在化学课堂中，以丰富学生的认知体验，提高初中化学教学质量。",
+        "keywords": "初中;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=14&recid=&FileName=JYGS202306029&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "15": {
+        "name": "趣味化学实验在初三化学教学中的应用探析",
+        "author": "刘娟",
+        "affiliation": "",
+        "get_way": "甘肃教育研究",
+        "page": "",
+        "pageNum": "",
+        "publish_time": [],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "24",
+        "abstract": "",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=15&recid=&FileName=JYGS202306030&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "16": {
+        "name": "课程思政视域下“医学化学”实验教学探究与实践",
+        "author": "苏丹; 李春仁; 曹璐",
+        "affiliation": "信阳职业技术学院基础医学部",
+        "get_way": "化工时刊",
+        "page": "下载：46",
+        "pageNum": "页码：90-92",
+        "publish_time": [
+            "化工时刊",
+            "2023,37(03)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "46",
+        "abstract": "医务工作人员在上岗之前不仅要掌握精湛的技术,还需要具备生命至上和大爱无疆的医德,因此在“医学化学”实验教学中融入课程思政教育,有助于提升高职院校医药类专业学生的政治素养。作者通过对“医学化学”实验教学进行探究,在教学中加入科学素养、爱国情怀、安全技能及环保意识等思政元素,从而达到教书育人的目的。",
+        "keywords": "医学化学;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=16&recid=&FileName=HGJS202303023&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "17": {
+        "name": "信息化视角下初中化学教学质量提升策略",
+        "author": "雷旺兴",
+        "affiliation": "甘肃省平凉市静宁县阿阳实验学校",
+        "get_way": "中国新通信",
+        "page": "下载：59",
+        "pageNum": "页码：221-223",
+        "publish_time": [
+            "中国新通信",
+            "2023,25(12)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "59",
+        "abstract": "在教育信息化逐渐推进的情况下，将信息化教学手段和学科教学深度融合已成为我国教育发展的主要趋势。初中化学作为中考科目之一，占据着重要地位。合理应用信息化教学手段有助于提高初中化学教学质量。但通过调查发现，当前很多地区初中化学教学和信息技术融合过程中仍存在不少问题。基于此，本文围绕信息化视角下提升初中化学质量的可行策略展开研究。文章首先介绍信息化视角下优化初中化学教学质量的意义，然后分析当前初中化学教学现状，最后从多个角度探讨提升初中化学教学质量的措施，以期为相关化学教师提供参考。",
+        "keywords": "信息化;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=17&recid=&FileName=TXWL202312075&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "18": {
+        "name": "人工智能化学：变革研究范式，加速物质发现",
+        "author": "刘小平; 刘耀虎; 郑企雨; 朱相丽",
+        "affiliation": "1. 中国科学院文献情报中心",
+        "get_way": "化学通报",
+        "page": "下载：241",
+        "pageNum": "页码：748-754",
+        "publish_time": [
+            "化学通报",
+            "2023,86(06)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "241",
+        "abstract": "化学科学领域的复杂性和海量数据为人工智能应用提供了契机。人工智能、机器学习、深度学习从海量数据中识别新的化合物，建立新的模型，提出新的理论，正在改变化学物质的发现、转化和功能研究范式，促进重大问题的解决。本文介绍了近年来国际上人工智能在化学研究中的重要进展，分析了人工智能化学的主要发展态势。人工智能通过助力化学海量数据挖掘、实现化学实验室智能化和自动化、增强计算化学解决实际问题的能力，推动化学跨越式发展。",
+        "keywords": "人工智能;",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=18&recid=&FileName=HXTB202306012&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "19": {
+        "name": "高校化学专业英语教学的改革与实践——评《化学英语》",
+        "author": "孙晓美",
+        "affiliation": "黑龙江工业学院国际教育学院",
+        "get_way": "化学工程",
+        "page": "下载：44",
+        "pageNum": "页码：103",
+        "publish_time": [
+            "化学工程",
+            "2023,51(06)"
+        ],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "44",
+        "abstract": "<正>不管是无机化学、有机化学,还是分析化学、物理化学、高分子化学与物理、药物化学,其与人们的生产生活有着密切的关系,例如有机化学为食品的生产做出了重大贡献,药物化学为医疗事业的发展提供了重大支持。且随着化学专业教育教学的深入,化学研究的丰富,化学技术的发展,化学与经济社会的关系将会更加紧密。而高校化学专业英语教育教学作为化学教育教学的重要组成部分,其为化学技术跨领域、跨地区交流,化学工程跨国合作,化学类物品多样生产提供了重大助力,关乎国家经济发展、技术创新。是以,如何在新形势下推动高校化学专业英语教育教学改革,使其学习目标从似有若无走向核心统领,",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=19&recid=&FileName=IMIY202306024&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    },
+    "20": {
+        "name": "以自然辩证法为导向推进化学哲学研究——评《化学哲学基础》",
+        "author": "方立豪",
+        "affiliation": "",
+        "get_way": "化学工程",
+        "page": "",
+        "pageNum": "",
+        "publish_time": [],
+        "db_type": "期刊",
+        "cited": "",
+        "download": "128",
+        "abstract": "",
+        "keywords": "",
+        "url": "https://kns.cnki.net//kns8/Detail?sfield=fn&QueryID=5&CurRec=20&recid=&FileName=IMIY202306023&DbName=CJFDLAST2023&DbCode=CJFD&yx=&pr=&URLID=",
+        "crawl_time": "2023-10-26 11:50:09.272658"
+    }
+}

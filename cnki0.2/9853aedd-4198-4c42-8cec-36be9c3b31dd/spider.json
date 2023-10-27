@@ -1,0 +1,13 @@
+{
+    "guid": "9853aedd-4198-4c42-8cec-36be9c3b31dd",
+    "keywords": "ai",
+    "requester": "1001",
+    "task_type": "realtime",
+    "first_at": "2023-10-26 09:37:08.766709",
+    "finish_at": "2023-10-26 09:37:38.116168",
+    "state": "100",
+    "success": "20",
+    "fail": "0",
+    "fail_list": "[]",
+    "maxpage": "1"
+}

@@ -30,5 +30,9 @@
     "2023-10-25 20:18:15.064681": {
         "type": "状态查询",
         "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'd5f06faa-6086-4eec-bf2a-15c923674ad6', 'keywords': '测试02', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:14:48.745666', 'finishAt': '2023-10-25 20:15:14.967613', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
+    },
+    "2023-10-26 09:36:02.449840": {
+        "type": "状态查询",
+        "msg": "{'code': '100', 'msg': '操作成功', 'data': {'taskGuid': 'd5f06faa-6086-4eec-bf2a-15c923674ad6', 'keywords': '测试02', 'requester': '1001', 'taskType': 'realtime', 'firstAt': '2023-10-25 20:14:48.745666', 'finishAt': '2023-10-25 20:15:14.967613', 'state': '100', 'success': '20', 'fail': '0', 'failList': '[]', 'maxpage': '1'}}"
     }
 }
